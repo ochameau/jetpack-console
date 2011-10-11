@@ -1,0 +1,12 @@
+{
+    "name": "console", 
+    "license": "GPL 2.0", 
+    "author": "Alexandre Poirot", 
+    "version": "0.1", 
+    "dependencies": [
+        "addon-kit", "api-utils"
+    ], 
+    "main": "main", 
+    "id": "console", 
+    "description": "console tests"
+}
